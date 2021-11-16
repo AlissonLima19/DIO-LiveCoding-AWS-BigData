@@ -2,7 +2,7 @@
 Repositório de código do Dio Live Coding com AWS EMR e Python
 Neste repositório há os arquivos de configuração e execução de análise de dados.
 
-#Foi realizado o desafio seguindo as instruções abaixo
+Foi realizado o desafio seguindo as instruções abaixo
 
 ## Instruções
 
